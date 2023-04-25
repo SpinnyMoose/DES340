@@ -1,3 +1,3 @@
 # DES340
-Web Design
+Web Design |
 Lora Spinabella's Portfolio
